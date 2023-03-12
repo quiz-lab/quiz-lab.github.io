@@ -1,0 +1,245 @@
+.bg-secondary,
+.btn-secondary,
+.btn-outline-secondary:hover,
+.btn-outline-secondary:focus,
+.btn-outline-secondary:active,
+.btn-outline-secondary.active,
+.btn-outline-secondary.focus,
+.btn-outline-secondary:not(:disabled):not(.disabled):active,
+.btn-soft-secondary:hover,
+.btn-soft-secondary:focus,
+.btn-soft-secondary:active,
+.btn-soft-secondary.active,
+.btn-soft-secondary.focus,
+.badge-primary,
+.pagination .page-item.active .page-link,
+.nav-pills .nav-link.active,
+.custom-control-input:checked ~ .custom-control-label:before,
+#preloader #status .spinner .double-bounce1,
+#preloader #status .spinner .double-bounce2,
+.social-icon li a:hover,
+.back-to-top:hover,
+.back-to-home a,
+#topnav .navbar-toggle.open span:hover,
+.gradient,
+.flex-control-paging li a.flex-active,
+.owl-theme .owl-dots .owl-dot span,
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots.clickable .owl-dot:hover span,
+.watch-video a .play-icon-circle,
+.sidebar .widget .tagcloud > a:hover,
+.flatpickr-day.selected,
+.flatpickr-day.selected:hover,
+.bg-animation-left.crypto-home:after,
+.classic-app-image .bg-app-shape:after,
+.classic-saas-image .bg-saas-shape:after,
+.work-container.work-modern .icons .work-icon:hover {
+    background-color: #575656 !important;
+}
+
+.text-secondary,
+.bg-soft-secondary,
+.btn-soft-secondary,
+.btn-outline-secondary,
+.badge-outline-secondary,
+.alert-outline-secondary,
+.breadcrumb .breadcrumb-item.active,
+.breadcrumb .breadcrumb-item a:hover,
+.faq-content .card a.faq[data-toggle=collapse],
+.faq-content .card a.faq[data-toggle=collapse]:before,
+#topnav .has-submenu.active .submenu li.active > a,
+#topnav .navigation-menu > li:hover > a,
+#topnav .navigation-menu > li.active > a,
+#topnav .navigation-menu > li > a:hover,
+#topnav .navigation-menu > li > a:active,
+#topnav .navigation-menu > li .submenu li a:hover,
+#topnav .navigation-menu > li:hover > a,
+#topnav .navigation-menu > li.active > a,
+#topnav .navigation-menu > li > a:hover,
+#topnav .navigation-menu > li .submenu li a:hover,
+#topnav .navigation-menu > li.has-submenu.open > a,
+#topnav .has-submenu.active a,
+.course-feature .title:hover,
+.pricing-rates.business-rate:hover .title,
+.blog .content .title:hover,
+.blog .content .post-meta .readmore:hover,
+.sidebar .widget .blog-catagories li a:hover,
+.sidebar .widget .post-recent .post-recent-content a:hover,
+.media-list .media .media-heading:hover,
+.job-box .position a:hover,
+.job-box .company-name:hover,
+.event-schedule .content .title:hover,
+.courses-desc .content .title:hover,
+.container-filter li a.active,
+.container-filter li a:hover,
+.team .name:hover,
+.catagories a:hover,
+.explore-feature:hover .icon,
+.explore-feature:hover .title,
+.work-container.work-classic .content .title:hover,
+.work-container.work-grid .content .title:hover,
+.work-container.work-modern .content .title:hover {
+    color: #575656 !important;
+}
+
+.btn-secondary,
+.btn-outline-secondary,
+.btn-outline-secondary:hover,
+.btn-outline-secondary:focus,
+.btn-outline-secondary:active,
+.btn-outline-secondary.active,
+.btn-outline-secondary.focus,
+.btn-outline-secondary:not(:disabled):not(.disabled):active,
+.badge-outline-secondary,
+.btn-soft-secondary:hover,
+.btn-soft-secondary:focus,
+.btn-soft-secondary:active,
+.btn-soft-secondary.active,
+.btn-soft-secondary.focus,
+.alert-secondary,
+.alert-outline-secondary,
+.pagination .page-item.active .page-link,
+.form-group .form-control:focus,
+.form-group .form-control.active,
+.custom-control-input:checked ~ .custom-control-label:before,
+.custom-control-input:focus ~ .custom-control-label::before,
+.form-control:focus,
+.social-icon li a:hover,
+#topnav .has-submenu.active.active .menu-arrow,
+#topnav.scroll .navigation-menu > li:hover > .menu-arrow,
+#topnav.scroll .navigation-menu > li.active > .menu-arrow,
+#topnav .navigation-menu > li:hover > .menu-arrow,
+#topnav .has-submenu .submenu .has-submenu:hover .submenu-arrow,
+.pricing-rates.business-rate:hover,
+.pricing-rates.starter-plan,
+.event-schedule:hover,
+.container-filter li a.active,
+.container-filter li a:hover,
+.flatpickr-day.selected,
+.flatpickr-day.selected:hover {
+    border-color: #575656 !important;
+}
+
+.btn-secondary,
+.btn-soft-secondary,
+.btn-outline-secondary:hover,
+.btn-outline-secondary:focus,
+.btn-outline-secondary:active,
+.btn-outline-secondary.active,
+.btn-outline-secondary.focus,
+.btn-outline-secondary:not(:disabled):not(.disabled):active {
+    box-shadow: 0 3px 5px 0 rgba(255, 91, 105,0.3);
+}
+
+.btn-secondary:hover,
+.btn-secondary:focus,
+.btn-secondary:active,
+.btn-secondary.active,
+.btn-secondary.focus {
+    background-color: #131313 !important;
+    border-color: #131313 !important;
+}
+
+.btn-soft-secondary {
+    background-color: rgba(47, 45, 45, 0.2) !important;
+    border: 1px solid rgba(47, 45, 45, 0.2) !important;
+}
+
+.alert-secondary,
+.pagination .page-item .page-link:hover,
+::selection {
+    background-color: rgba(45, 41, 41, 0.9);
+}
+
+.alert-secondary .alert-link {
+    color: #100f0f;
+}
+
+.pagination .page-item .page-link:hover {
+    border-color: rgba(42, 40, 40, 0.9);
+}
+
+a.text-secondary:hover,
+a.text-secondary:focus {
+    color: #282525 !important;
+}
+
+.social-icon li a:hover .fea-social {
+    fill: #262525;
+}
+
+.bg-overlay-gradient {
+    background-color: rgba(38, 36, 36, 0.6);
+}
+
+.bg-overlay-gradient2 {
+    background-image: linear-gradient(90deg, #6d706e, #181516, #626463);
+}
+
+.gradient {
+    background: linear-gradient(45deg, #262525, #2a2828) !important;
+}
+
+.features .image:before {
+    background: linear-gradient(45deg, transparent, rgba(255, 91, 105, 0.09));
+}
+
+.features .icon,
+.features .icons,
+.app-feature-shape-right:after,
+.app-feature-shape-left:after,
+.saas-feature-shape-left:after,
+.saas-feature-shape-right:after,
+.social-feature-left:after,
+.social-feature-right:after {
+    background: rgba(255, 91, 105, 0.1);
+}
+
+.features:hover .image:before {
+    background: rgba(255, 91, 105, 0.07);
+}
+
+.key-feature .icon {
+    background: linear-gradient(45deg, transparent, rgba(255, 91, 105, 0.15));
+}
+
+.owl-theme .owl-dots .owl-dot span {
+    background: rgba(35, 34, 34, 0.5) !important;
+}
+
+.play-icon i,
+.play-icon i:hover {
+    -webkit-text-stroke: 2px #252424;
+}
+
+.play-icon i:hover {
+    -webkit-text-fill-color: #252323;
+}
+
+.event-schedule .date .day {
+    background: rgba(255, 91, 105, 0.06);
+    box-shadow: 0px 0px 2px 0.25px rgba(54, 52, 52, 0.5);
+}
+
+.classic-app-image .bg-app-shape:after,
+.classic-saas-image .bg-saas-shape:after {
+    box-shadow: 0 0 40px rgba(28, 27, 27, 0.5);
+}
+
+.app-feature-shape-right:after,
+.app-feature-shape-left:after,
+.saas-feature-shape-left:after,
+.saas-feature-shape-right:after,
+.social-feature-left:after,
+.social-feature-right:after {
+    box-shadow: 0 0 40px rgba(61, 59, 59, 0.1);
+}
+
+.bg-circle-gradiant {
+    background: radial-gradient(circle at 50% 50%, rgba(65, 64, 64, 0.1) 0%, rgba(68, 67, 67, 0.1) 33.333%, rgba(75, 74, 74, 0.3) 33.333%, rgba(66, 66, 66, 0.3) 66.666%, rgba(255, 91, 105, 0.5) 66.666%, rgba(255, 91, 105, 0.5) 99.999%);
+}
+
+.bg-soft-primary {
+    background-color: rgba(40, 40, 40, 0.2) !important;
+    border: 1px solid rgba(59, 57, 57, 0.2) !important;
+}

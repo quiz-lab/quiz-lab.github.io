@@ -1,0 +1,31 @@
+.inner-html-css {
+  box-sizing: content-box;
+}
+
+.inner-html-css p:first-child{
+  display: inline;
+  margin: 0px auto;
+}
+
+.inner-html-css p{
+  margin-bottom: 0px;
+}
+.radio-fixed-align {
+  display: flex !important;
+}
+
+.ant-modal-content {
+  border-radius: 10px;
+}
+
+.ant-modal-header {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.ant-modal-body {
+  padding: 16px!important;
+}
+.feedback-rounder {
+  border-radius: 6px;
+}
+
